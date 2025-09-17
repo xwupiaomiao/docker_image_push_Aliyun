@@ -9,3 +9,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #--platform=linux/amd64 [镜像名]
 nginx
+docker.io/networkstatic/iperf3:latest
